@@ -23,7 +23,7 @@ The system utilizes a dual-modality approach to enhance prediction accuracy. It 
 🚀 Key Modules & Methodology
 1. Convolutional Neural Network (CNN) for Imaging
 
-*Purpose: Classify radiographs as Normal, Spine Osteoporosis, or Knee Osteoporosis.
+* Purpose: Classify radiographs as Normal, Spine Osteoporosis, or Knee Osteoporosis.
 
 
 * Architecture: Multi-layered CNN designed for medical anomaly recognition and image classification.
